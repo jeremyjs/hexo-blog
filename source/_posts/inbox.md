@@ -17,4 +17,8 @@ I have two inboxes. One is my email, for which I use Google Inbox or Mailbox for
 
 I try to process my inbox every morning upon waking, starting with email. Processing consists of going through each email, reading it, and either marking it done (archiving it); sending a reply and then marking it done; sending a reply, then snoozing for a day or two to remind me to follow up; scheduling an action on my calendar and marking it done; or if it's not urgent and I don't have time, snoozing it until later.
 
+_Delete, Delegate, Respond, Defer or Do_
+
+Always respond immediately to messages which can be answered in two minutes or less (this is a rule borrowed from David Allen’s popular “Getting Things Done” (GTD) productivity philosophy).
+
 Then, I process my Workflowy inbox. I process each bullet from my inbox by filing it away somewhere else in Workflowy, putting it into Dunmo, or creating a reminder for it in Google Inbox.
