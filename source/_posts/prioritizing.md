@@ -23,5 +23,6 @@ For instance, here's a list of quadrant II tasks:
 - Read _[Never Eat Alone](https://amazon.com/Never-Eat-Alone-Expanded-Updated-ebook/dp/B00H6JBFOS)_
 - Create a series of blog posts on Javascript
 - Work on [my side projects](/side-projects)
+- Read _[The End of Jobs](https://amazon.com/dp/B010L8SYRG) and summarize in blog and/or [goodreads](https://www.goodreads.com/user/show/50400774-jeremy-meyer).
 
-Is there a magical system I could use to prioritize these things? I don't know yet, but I'm looking into it.
+Is there a magical system I could use to prioritize these things? I could combine the tasks, for instance, starting a new side project using the frameworks listed in the first bullet or making an app to help me decide friends to have lunch with. Either way, I could blog about these things which would naturally grow into a series on Javascript. However, this doesn't help me decide whether to prioritize all that or read _The End of Jobs_. I'm looking into other ways to do this better, especially as part of the product development for [Dunmo](https://github.com/Dunmo/Dunmo).
