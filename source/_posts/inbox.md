@@ -17,8 +17,14 @@ I have two inboxes. One is my email, for which I use Google Inbox or Mailbox for
 
 I try to process my inbox every morning upon waking, starting with email. Processing consists of going through each email, reading it, and either marking it done (archiving it); sending a reply and then marking it done; sending a reply, then snoozing for a day or two to remind me to follow up; scheduling an action on my calendar and marking it done; or if it's not urgent and I don't have time, snoozing it until later.
 
+During the processing stage, each item should take 2 minutes at the most.
+
 _Delete, Delegate, Respond, Defer or Do_
 
 Always respond immediately to messages which can be answered in two minutes or less (this is a rule borrowed from David Allen’s popular “Getting Things Done” (GTD) productivity philosophy).
 
 Then, I process my Workflowy inbox. I process each bullet from my inbox by filing it away somewhere else in Workflowy, putting it into Dunmo, or creating a reminder for it in Google Inbox.
+
+I still need to find a good way to process emails which contain a list of external links to content. My goal is to extract all these links to a medium similar to Workflowy, prioritize them, then read them in order with a set time limit and discarding the rest.
+
+Alternatively, I should also spend time auditing these subscriptions and see if they can be removed from my email inbox and instead become a scheduled task.
