@@ -17,7 +17,7 @@ This is my first post.
 
 Each post will be written in an MVP style, where I focus on writing the most important points, then publishing, and clarifying later in updates to the post as time allows.
 
-I plan to make this a living blog, which means that the format, content, etc. will change often. This might be terrible for SEO, but I hope it will improve the quality of the blog. Each post is meant to be timeless.
+I plan to make this a living blog, which means that the format, content, etc. will change often. This might be bad for SEO, but I hope it will improve the quality of the blog. Each post is meant to be timeless.
 
 There is a [commit history on github](https://github.com/jjman505/jjman505.github.io) if you are interested in referencing an old version without using the [internet archives](https://web.archive.org/web/*/jjman505.github.io).
 
