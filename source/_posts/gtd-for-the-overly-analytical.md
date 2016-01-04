@@ -14,9 +14,7 @@ updated:
 If you spend too much time thinking about a thing, you'll never get it done.
 {% endquote %}
 
-This post explains my own personal productivity system. I will probably break out each section into its own post as it gets more complex.
-
-Right now, I'm trying to use a biphasic sleep schedule where I take two core sleeps and one nap. I take my first core from 9:30pm-12:30am and my second core from 3:30am-6:00am. I take a 20 minute nap between exercising and lunch. Therefore, my day starts at 6:00am.
+This post explains my own personal productivity system, which is loosely based on [GTD](/getting-things-done). I've recently incoporated [Strikethru](http://striketh.ru).
 
 First thing after waking, I like to down a glass of orange juice, grab a glass of water, and hop on my computer to plan the day. First, I process my inbox, making note of anything that needs done today. Read more about how I process my inbox [here](/inbox). Ideally this would take no longer than 30 minutes, but depending on the size of my inbox, it may take longer.
 
