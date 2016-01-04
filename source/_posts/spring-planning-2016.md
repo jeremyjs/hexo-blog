@@ -28,6 +28,7 @@ There are several categories in my life that I've determined to prioritize in th
 - Networking/Job Hunting
 - Epsilon Nu Tau
 - Dunmo
+- Personal Finance
 - Stock Trading
 - Studying CS Concepts (Interview Prep)
 - Dating
@@ -52,6 +53,7 @@ Here's the master list of activities that I will need to plan into my scedule ea
 - ENT Meetings
 - ENT Duties
 - Dunmo
+- Budgeting
 - Stock Trading
 - Interview Prep (Studying CS Concepts)
 - Building "Attractiveness" (Self-Improvement, etc.)
@@ -227,6 +229,7 @@ Didn't include:
 - [3h] Other events
 - [5-10h] Other assignments (reports, etc.)
 - [5-10h] Side projects
+- [1h] Budgeting
 - Hackathon/Weekend Trip
 - Leeway time (5% ~ 10%)
 
