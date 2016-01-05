@@ -11,6 +11,9 @@
 > When one's expectations are reduced to zero, one really appreciates everything one does have.
 > -- Stephen Hawking
 
+> The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+> -- Stephen Hawking
+
 > Simplicity boils down to two steps: Identify the essential. Eliminate the rest.
 > -- Leo Babauta
 
@@ -37,3 +40,33 @@
 
 > What is important is seldom urgent and what is urgent is seldom important.
 > -- Anonymous
+
+> Any product that needs a manual to work is broken.
+> -- Elon Musk
+
+> People should pursue what they're passionate about. That will make them happier than pretty much anything else.
+> -- Elon Musk
+
+> The problem is that at a lot of big companies, process becomes a substitute for thinking. You're encouraged to behave like a little gear in a complex machine. Frankly, it allows you to keep people who aren't that smart, who aren't that creative.
+> -- Elon Musk
+
+> I don't spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems.
+> -- Elon Musk
+
+> Trying to read our DNA is like trying to understand software code - with only 90% of the code riddled with errors. It's very difficult in that case to understand and predict what that software code is going to do.
+> -- Elon Musk
+
+> I don't think it's a good idea to plan to sell a company.
+> -- Elon Musk
+
+> I think most of the important stuff on the Internet has been built. There will be continued innovation, for sure, but the great problems of the Internet have essentially been solved.
+> -- Elon Musk
+
+> The United States is definitely ahead in culture of innovation. If someone wants to accomplish great things, there is no better place than the U.S.
+> -- Elon Musk
+
+> The future is like a series of branching probability streams. You have to ask, what are we doing to move down the stream that's most likely to make for a good future?
+> -- Elon Musk
+
+> Engineering tends to be more of a limiting factor than science.
+> -- Elon Musk
