@@ -39,7 +39,7 @@ There are several categories in my life that I've determined to prioritize in th
 
 This is roughly urgency-importance order.
 
-Here's the master list of activities that I will need to plan into my scedule each day/week/month:
+Here's the master list of activities that I will need to plan into my schedule each day/week/month:
 - Sleeping
 - Exercising
 - Daily Hygiene
@@ -53,7 +53,6 @@ Here's the master list of activities that I will need to plan into my scedule ea
 - ENT Meetings
 - ENT Duties
 - Dunmo
-- Budgeting
 - Stock Trading
 - Interview Prep (Studying CS Concepts)
 - Building "Attractiveness" (Self-Improvement, etc.)
@@ -89,10 +88,8 @@ Sunday
 - 12:00pm [1h] Household Chores
 -  1:00pm [3h] Dating
 -  4:00pm [20m] Nap
--  4:30pm [2h] Contract Work
--  6:30pm [1h] Social Meal
--  7:30pm [2h] Contract Work
--  9:30pm [1h] Weekly Planning
+-  4:30pm [4h] Contract Work
+-  8:30pm [2h] Weekly Planning
 - 10:30pm [1h30m] Self-Improvement (Nootropics/Mind Hacking)
 - 12:00am [~~] Go to Sleep
 
@@ -204,7 +201,7 @@ Totals
 - [1h] Household Chores
 - [1h20m] Day Planning (probably a bit low)
 - [2h30m] Process Inbox
-- [1h] Weekly Planning (probably a bit low)
+- [2h] Weekly Planning (probably a bit low)
 - [3h] EAPS HW/Studying (should be 4h30m)
 - [2h] PHIL HW/Studying (should be 3h)
 - [3h] COM HW/Studying
@@ -229,7 +226,6 @@ Didn't include:
 - [3h] Other events
 - [5-10h] Other assignments (reports, etc.)
 - [5-10h] Side projects
-- [1h] Budgeting
 - Hackathon/Weekend Trip
 - Leeway time (5% ~ 10%)
 
